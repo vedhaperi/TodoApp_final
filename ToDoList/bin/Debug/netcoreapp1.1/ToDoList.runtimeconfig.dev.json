@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Vedha\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Vedha\\.nuget\\packages"
+    ]
+  }
+}
