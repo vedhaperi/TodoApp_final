@@ -1,8 +1,0 @@
-<div class="App">
-  <div class="todo-wrapper">
-    <app-header></app-header>
-    <app-todo-list></app-todo-list>
-    <div *ngFor="let todo of todoService.getTodos()"></div>
-    <app-todo-item [todo]="todo"></app-todo-item>
-  </div>
-</div>
